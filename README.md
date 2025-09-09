@@ -1,1 +1,2 @@
-My name is Sergey, i am student of PNRPU. Today is Tuesday. I feel good.
+#лабараторные работы по программированию
+##семестр 1
