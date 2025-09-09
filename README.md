@@ -1,1 +1,1 @@
-# sergey_vinokurov_ivt_2b-
+My name is Sergey, i am student of PNRPU. Today is Tuesday. I feel good.
